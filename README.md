@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ian! A Software Engingeer specialising in Front End Development.
-- 🏘️ I'm originally from Donegal but now based in Galway City 
+- 👋 Hi, I’m Ian! A Software Engineer specialising in Front End Development.
+- 🏘️ I'm originally from Donegal but now based in Belfast City 
 - 👀 In a professional setting I've worked mainly with HTML, CSS/SCSS, and Angular. Although recently I've been branching out into React.
 
 <!---
